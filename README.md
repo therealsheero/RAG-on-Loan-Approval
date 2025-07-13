@@ -29,7 +29,7 @@ loan-rag-chatbot/
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1.  Install Requirements
 ```bash

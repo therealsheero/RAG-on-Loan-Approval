@@ -1,0 +1,11 @@
+db/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.env
+*.log
+*.cache
+*.db
+*.json
+*.csv
+*.zip

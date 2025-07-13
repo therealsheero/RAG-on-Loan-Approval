@@ -5,7 +5,4 @@ __pycache__/
 .env
 *.log
 *.cache
-*.db
-*.json
-*.csv
 *.zip

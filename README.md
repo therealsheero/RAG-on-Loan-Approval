@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that answers questions abou
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 

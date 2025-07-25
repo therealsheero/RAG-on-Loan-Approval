@@ -1,4 +1,3 @@
----
 # Loan Approval RAG Chatbot using LangChain + Ollama (Local LLM)
 
 A Retrieval-Augmented Generation (RAG) based chatbot that answers questions about loan eligibility and approvals, using a local LLM via Ollama and LangChain. It loads your own loan training data, embeds it, and allows intelligent Q&A using vector search.
@@ -6,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that answers questions abou
 ---
 
 ## Key Point
-Please go through "Example.ipynb", it has a very detailed explanation of how a RAG model works as a model and on different kinds of data like pdf, txt, etc.
+Please go through "Example.ipynb", it has a very detailed explanation of how a RAG model works as a model and on different kinds of data like pdf, txt, etc. The explanation is given in the form of detailed steps with example implementation for better understanding.
 
 ---
 

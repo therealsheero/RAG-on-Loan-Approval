@@ -5,7 +5,8 @@ A Retrieval-Augmented Generation (RAG) based chatbot that answers questions abou
 
 ---
 
-**Key Point** : Please go through "Example.ipynb", it has a very detailed explanation of how a RAG model works as a model and on different kinds of data like pdf, txt, etc.
+## Key Point
+Please go through "Example.ipynb", it has a very detailed explanation of how a RAG model works as a model and on different kinds of data like pdf, txt, etc.
 
 ---
 
